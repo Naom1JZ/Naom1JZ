@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Naom1JZ! 🌸
 
-<!--
-**Naom1JZ/Naom1JZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Information Technology student interested in software development.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Flutter & Dart
+* Angular & TypeScript
+* Supabase
+* Firebase
+* Git & GitHub
+
+## Featured Projects
+
+### Proyecto Banco Iniciativa
+
+Collaborative project developed with Flutter and Supabase.
+
+**My contribution:**
+
+* Technical project sheet and cost breakdown
+* Form validation
+* Numeric input validation
+* UX improvements
+
+🔗 [View repository](https://github.com/HugojZuniga1982/Proyecto_Banco_Inciativa_Proyectos_Grupo4)
+
+### Angular Projects
+
+Angular application developed as part of my software development coursework.
+
+projecto 1&2
+https://bitbucket.org/curso_nao/curso-angular/src/master/
+
+project 4
+https://bitbucket.org/curso_nao/angular-proyecto-4/src/master/
+
+### Cafetería Creativa
+
+Responsive Flutter application for managing a local café menu and orders.
+
+## Education
+
+Ingeniería en Informática — CEUTEC
+
