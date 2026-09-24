@@ -3,7 +3,6 @@
  Information Technology student interested in software development.
 
 ## Technologies
-
 * Flutter & Dart
 * Angular & TypeScript
 * Supabase
