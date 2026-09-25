@@ -34,9 +34,6 @@ https://bitbucket.org/curso_nao/curso-angular/src/master/
 project 4
 https://bitbucket.org/curso_nao/angular-proyecto-4/src/master/
 
-### Cafetería Creativa
-
-Responsive Flutter application for managing a local café menu and orders.
 
 ## Education
 
